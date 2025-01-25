@@ -1,2 +1,2 @@
 # I2 Heartbeat
-TODO: make readme lol
+JavaScript based software made to handle running playlists on the IntelliStar 2 line of systems.

@@ -1,0 +1,726 @@
+[
+    {
+        "ID": 5009,
+        "Description": "AMHQ Promo"
+    },
+    {
+        "ID": 5010,
+        "Description": "Brain Stormers Promo"
+    },
+    {
+        "ID": 5017,
+        "Description": "Fat Guys In The Woods Promo"
+    },
+    {
+        "ID": 5024,
+        "Description": "23.5 Tuesday"
+    },
+    {
+        "ID": 5029,
+        "Description": "Generics"
+    },
+    {
+        "ID": 5033,
+        "Description": "Weather Underground Promo"
+    },
+    {
+        "ID": 5034,
+        "Description": "Weather Underground Premiere Promo"
+    },
+    {
+        "ID": 5035,
+        "Description": "Weather Underground Promo"
+    },
+    {
+        "ID": 5037,
+        "Description": "3 Scientists Promo"
+    },
+    {
+        "ID": 5038,
+        "Description": "weather.com/tv Promo"
+    },
+    {
+        "ID": 5039,
+        "Description": "Hurricane Joaquin"
+    },
+    {
+        "ID": 5040,
+        "Description": "Severe Storm Central"
+    },
+    {
+        "ID": 5041,
+        "Description": "AMHQ Promo"
+    },
+    {
+        "ID": 5042,
+        "Description": "AMHQ Now Watching"
+    },
+    {
+        "ID": 5043,
+        "Description": "Winter Storm Central"
+    },
+    {
+        "ID": 5045,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5046,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5047,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5048,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5049,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5050,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5051,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5052,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5053,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5054,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5055,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5056,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5057,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5058,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5059,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5060,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5061,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5062,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5063,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5064,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5065,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5066,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5067,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5068,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5069,
+        "Description": "Winter Storm (Named) 2015"
+    },
+    {
+        "ID": 5070,
+        "Description": "Weather Geeks Now Watching"
+    },
+    {
+        "ID": 5071,
+        "Description": "Weather Geeks Coming Up"
+    },
+    {
+        "ID": 5072,
+        "Description": "Weather Geeks Promo"
+    },
+    {
+        "ID": 5073,
+        "Description": "Weather Underground Promo"
+    },
+    {
+        "ID": 5074,
+        "Description": "Weather Underground Coming Up"
+    },
+    {
+        "ID": 5075,
+        "Description": "Weather Underground Now Watching"
+    },
+    {
+        "ID": 5076,
+        "Description": "Dead Of Winter Donner Party Now Watching"
+    },
+    {
+        "ID": 5077,
+        "Description": "Dead Of Winter Donner Party Promo"
+    },
+    {
+        "ID": 5078,
+        "Description": "Dead Of Winter Donner Party Promo"
+    },
+    {
+        "ID": 5079,
+        "Description": "Prospectors Promo"
+    },
+    {
+        "ID": 5081,
+        "Description": "Prospectors Now Watching"
+    },
+    {
+        "ID": 5082,
+        "Description": "Weekend Recharge Now Watching"
+    },
+    {
+        "ID": 5083,
+        "Description": "Weekend Recharge Coming Up"
+    },
+    {
+        "ID": 5084,
+        "Description": "Weekend Recharge Promo"
+    },
+    {
+        "ID": 5085,
+        "Description": "AMHQ Now Watching Winter"
+    },
+    {
+        "ID": 5086,
+        "Description": "AMHQ Promo Winter"
+    },
+    {
+        "ID": 5087,
+        "Description": "AMHQ Now Watching Spring"
+    },
+    {
+        "ID": 5088,
+        "Description": "AMHQ Promo Spring"
+    },
+    {
+        "ID": 5089,
+        "Description": "23.5 Now Watching"
+    },
+    {
+        "ID": 5090,
+        "Description": "23.5 Up Next"
+    },
+    {
+        "ID": 5091,
+        "Description": "23.5 Tonight"
+    },
+    {
+        "ID": 5092,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5093,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5094,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5095,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5096,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5097,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5098,
+        "Description": "Severe Storm Central"
+    },
+    {
+        "ID": 5099,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5101,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5102,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5103,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5104,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5105,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5106,
+        "Description": "Jim Cantore 30 Years"
+    },
+    {
+        "ID": 5107,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5108,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5109,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5111,
+        "Description": "weloveweather.tv Promo"
+    },
+    {
+        "ID": 5115,
+        "Description": "LocalNow Promo"
+    },
+    {
+        "ID": 5120,
+        "Description": "Hurricane Hermine"
+    },
+    {
+        "ID": 5121,
+        "Description": "Hurricane Ian"
+    },
+    {
+        "ID": 5122,
+        "Description": "Hurricane Julia"
+    },
+    {
+        "ID": 5123,
+        "Description": "Hurricane Karl"
+    },
+    {
+        "ID": 5124,
+        "Description": "Hurricane Lisa"
+    },
+    {
+        "ID": 5125,
+        "Description": "Hurricane Mathhew"
+    },
+    {
+        "ID": 5126,
+        "Description": "Hurricane Nicole"
+      },
+      {
+          "ID": 5127,
+          "Description": "Hurricane Otto"
+      },
+      {
+          "ID": 5128,
+          "Description": "Hurricane Paula"
+      },
+      {
+          "ID": 5129,
+          "Description": "Hurricane Richard"
+      },
+      {
+          "ID": 5130,
+          "Description": "Hurricane Shary"
+      },
+      {
+          "ID": 5131,
+          "Description": "Hurricane Tobias"
+      },
+      {
+          "ID": 5132,
+          "Description": "Hurricane Virginie"
+      },
+      {
+          "ID": 5133,
+          "Description": "Hurricane Walter"
+      },
+      {
+          "ID": 5134,
+          "Description": "Hurricane Central"
+      },
+      {
+          "ID": 5135,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5136,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5137,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5138,
+          "Description": "Reynolds Wolf TWC"
+      },
+      {
+          "ID": 5139,
+          "Description": "Mike Bettes TWC"
+      },
+      {
+          "ID": 5140,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5141,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5142,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5143,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5144,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5145,
+          "Description": "Anaridis Rodriguez TWC"
+      },
+      {
+          "ID": 5146,
+          "Description": "Jim Cantore TWC"
+      },
+      {
+          "ID": 5147,
+          "Description": "Hurricane Week"
+      },
+      {
+          "ID": 5148,
+          "Description": "Hurricane Week"
+      },
+      {
+          "ID": 5149,
+          "Description": "Hurricane Week"
+      },
+      {
+          "ID": 5150,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5151,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5152,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5153,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5154,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5155,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5156,
+          "Description": "Weather Gone Viral Promo"
+      },
+      {
+          "ID": 5157,
+          "Description": "Weather Gone Viral Promo"
+      },
+      {
+          "ID": 5158,
+          "Description": "Thats Amazing Premiere Promo"
+      },
+      {
+          "ID": 5159,
+          "Description": "Thats Amazing Premiere Promo"
+      },
+      {
+          "ID": 5162,
+          "Description": "Winter Storm Caly"
+      },
+      {
+          "ID": 5163,
+          "Description": "Winter Storm Decima"
+      },
+      {
+          "ID": 5164,
+          "Description": "Winter Storm Europa"
+      },
+      {
+          "ID": 5165,
+          "Description": "Winter Storm Fortis"
+      },
+      {
+          "ID": 5167,
+          "Description": "Winter Storm Helena"
+      },
+      {
+          "ID": 5187,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5188,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5189,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5190,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5191,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5193,
+          "Description": "Jen Carfagno TWC Fall"
+      },
+      {
+          "ID": 5194,
+          "Description": "Jim Cantore TWC Winter"
+      },
+      {
+          "ID": 5195,
+          "Description": "Escape The Election 2016"
+      },
+      {
+          "ID": 5196,
+          "Description": "Escape The Election 2016"
+      },
+      {
+          "ID": 5197,
+          "Description": "Escape The Election 2016"
+      },
+      {
+          "ID": 5198,
+          "Description": "Escape The Election 2016"
+      },
+      {
+          "ID": 5202,
+          "Description": "Escape The Election 2016"
+      },
+      {
+          "ID": 5208,
+          "Description": "Thanksgivings Takeover"
+      },
+      {
+          "ID": 5209,
+          "Description": "Thanksgivings Takeover"
+      },
+      {
+          "ID": 5210,
+          "Description": "Thats Amazing Now Watching"
+      },
+      {
+          "ID": 5211,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5212,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5213,
+          "Description": "weloveweather.tv Promo"
+      },
+      {
+          "ID": 5214,
+          "Description": "AMHQ Now Watching Winter"
+      },
+      {
+          "ID": 5215,
+          "Description": "AMHQ Up Next Winter"
+      },
+      {
+          "ID": 5216,
+          "Description": "AMHQ Promo Winter"
+      },
+      {
+          "ID": 5217,
+          "Description": "AMHQ Now Watching Winter"
+      },
+      {
+          "ID": 5218,
+          "Description": "AMHQ Up Next Winter"
+      },
+      {
+          "ID": 5219,
+          "Description": "Weather Underground Promo Winter"
+      },
+      {
+          "ID": 5220,
+          "Description": "Weather Underground Now Watching Winter"
+      },
+      {
+          "ID": 5221,
+          "Description": "Weather Underground Up Next Winter"
+      },
+      {
+        "ID": 6001,
+        "Description": "US Army 2015"
+      },
+      {
+        "ID": 6008,
+        "Description": "Universal Orlando 2016 (Day)"
+      },
+      {
+        "ID": 6009,
+        "Description": "Disney 2015 (Day)"
+      },
+      {
+        "ID": 6012,
+        "Description": "Lexus 2015 (Day)"
+      },
+      {
+        "ID": 6014,
+        "Description": "TruGreen 2016 (Day)"
+      },
+      {
+        "ID": 6015,
+        "Description": "Walmart 2015 (Day)"
+      },
+      {
+        "ID": 6016,
+        "Description": "Lexus Desert 2015 (Day)"
+      },
+      {
+        "ID": 6017,
+        "Description": "SeaDoo 2015 (Day)"
+      },
+      {
+        "ID": 6018,
+        "Description": "Walmart 2015 (Day)"
+      },
+      {
+        "ID": 6019,
+        "Description": "Excedrin 2015 (Day)"
+      },
+      {
+        "ID": 6020,
+        "Description": "Lexus 2015 (Day)"
+      },
+      {
+        "ID": 6022,
+        "Description": "Walmart Christmas 2015"
+      },
+      {
+        "ID": 6023,
+        "Description": "Duracell 2015"
+      },
+      {
+        "ID": 6024,
+        "Description": "Cintas 2016"
+      },
+      {
+        "ID": 6025,
+        "Description": "Zzzquil 2016 (Day)"
+      },
+      {
+        "ID": 6026,
+        "Description": "LLBean Winter 2016"
+      },
+      {
+        "ID": 6027,
+        "Description": "Walmart 2016 (Day)"
+      },
+      {
+        "ID": 6028,
+        "Description": "LLBean 2016 (Day)"
+      },
+      {
+        "ID": 6029,
+        "Description": "Lexus 2016 (Day)"
+      },
+      {
+        "ID": 6030,
+        "Description": "Lexus 2016 (Day)"
+      },
+      {
+        "ID": 6031,
+        "Description": "Alzheimers 2016"
+      },
+      {
+        "ID": 6032,
+        "Description": "Gorilla Glue 2016"
+      },
+      {
+        "ID": 6033,
+        "Description": "Lexus 2016 (Day)"
+      },
+      {
+        "ID": 6034,
+        "Description": "Walmart 2016"
+      },
+      {
+        "ID": 6035,
+        "Description": "Purina 2016"
+      },
+      {
+        "ID": 6036,
+        "Description": "Michelin 2017"
+      },
+      {
+        "ID": 6037,
+        "Description": "US Army 2016"
+      },
+      {
+        "ID": 6038,
+        "Description": "Amex 2016"
+      },
+      {
+        "ID": 6039,
+        "Description": "Walmart 2016"
+      },
+      {
+        "ID": 6040,
+        "Description": "Lexus Winter 2016"
+      }
+    ]

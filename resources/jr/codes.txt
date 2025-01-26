@@ -1,0 +1,183 @@
+-- 5000s - These are generally older backgrounds (pre-2017/2018 or so)
+5009: AMHQ Promo
+5010: Brain Stormers Promo
+5017: Fat Guys In The Woods Promo
+5024: 23.5 Tuesday
+5029: Generics
+5033: Weather Underground Promo
+5034: Weather Underground Premiere Promo
+5035: Weather Underground Promo
+5037: 3 Scientists Promo
+5038: weather.com/tv Promo
+5039: Hurricane Joaquin
+5040: Severe Storm Central
+5041: AMHQ Promo
+5042: AMHQ Now Watching
+5043: Winter Storm Central
+5045: Winter Storm (Named) 2015
+5046: Winter Storm (Named) 2015
+5047: Winter Storm (Named) 2015
+5048: Winter Storm (Named) 2015
+5049: Winter Storm (Named) 2015
+5050: Winter Storm (Named) 2015
+5051: Winter Storm (Named) 2015
+5052: Winter Storm (Named) 2015
+5053: Winter Storm (Named) 2015
+5054: Winter Storm (Named) 2015
+5055: Winter Storm (Named) 2015
+5056: Winter Storm (Named) 2015
+5057: Winter Storm (Named) 2015
+5058: Winter Storm (Named) 2015
+5059: Winter Storm (Named) 2015
+5060: Winter Storm (Named) 2015
+5061: Winter Storm (Named) 2015
+5062: Winter Storm (Named) 2015
+5063: Winter Storm (Named) 2015
+5064: Winter Storm (Named) 2015
+5065: Winter Storm (Named) 2015
+5066: Winter Storm (Named) 2015
+5067: Winter Storm (Named) 2015
+5068: Winter Storm (Named) 2015
+5069: Winter Storm (Named) 2015
+5070: Weather Geeks Now Watching
+5071: Weather Geeks Coming Up
+5072: Weather Geeks Promo
+5073: Weather Underground Promo
+5074: Weather Underground Coming Up
+5075: Weather Underground Now Watching
+5076: Dead Of Winter Donner Party Now Watching
+5077: Dead Of Winter Donner Party Promo
+5078: Dead Of Winter Donner Party Promo
+5079: Prospectors Promo
+5081: Prospectors Now Watching
+5082: Weekend Recharge Now Watching
+5083: Weekend Recharge Coming Up
+5084: Weekend Recharge Promo
+5085: AMHQ Now Watching Winter
+5086: AMHQ Promo Winter
+5087: AMHQ Now Watching Spring
+5088: AMHQ Promo Spring
+5089: 23.5 Now Watching
+5090: 23.5 Up Next
+5091: 23.5 Tonight
+5092: weloveweather.tv Promo
+5093: weloveweather.tv Promo
+5094: weloveweather.tv Promo
+5095: weloveweather.tv Promo
+5096: weloveweather.tv Promo
+5097: weloveweather.tv Promo
+5098: Severe Storm Central
+5099: weloveweather.tv Promo
+5101: weloveweather.tv Promo
+5102: weloveweather.tv Promo
+5103: weloveweather.tv Promo
+5104: weloveweather.tv Promo
+5105: weloveweather.tv Promo
+5106: Jim Cantore 30 Years
+5107: weloveweather.tv Promo
+5108: weloveweather.tv Promo
+5109: weloveweather.tv Promo
+5111: weloveweather.tv Promo
+5115: LocalNow Promo
+5120: Hurricane Hermine
+5121: Hurricane Ian
+5122: Hurricane Julia
+5123: Hurricane Karl
+5124: Hurricane Lisa
+5125: Hurricane Mathhew
+5126: Hurricane Nicole
+5127: Hurricane Otto
+5128: Hurricane Paula
+5129: Hurricane Richard
+5130: Hurricane Shary
+5131: Hurricane Tobias
+5132: Hurricane Virginie
+5133: Hurricane Walter
+5134: Hurricane Central
+5135: weloveweather.tv Promo
+5136: weloveweather.tv Promo
+5137: weloveweather.tv Promo
+5138: Reynolds Wolf TWC
+5139: Mike Bettes TWC
+5140: weloveweather.tv Promo
+5141: weloveweather.tv Promo
+5142: weloveweather.tv Promo
+5143: weloveweather.tv Promo
+5144: weloveweather.tv Promo
+5145: Anaridis Rodriguez TWC
+5146: Jim Cantore TWC
+5147: Hurricane Week
+5148: Hurricane Week
+5149: Hurricane Week
+5150: weloveweather.tv Promo
+5151: weloveweather.tv Promo
+5152: weloveweather.tv Promo
+5153: weloveweather.tv Promo
+5154: weloveweather.tv Promo
+5155: weloveweather.tv Promo
+5156: Weather Gone Viral Promo
+5157: Weather Gone Viral Promo
+5158: Thats Amazing Premiere Promo
+5159: Thats Amazing Premiere Promo
+5162: Winter Storm Caly
+5163: Winter Storm Decima
+5164: Winter Storm Europa
+5165: Winter Storm Fortis
+5167: Winter Storm Helena
+5187: weloveweather.tv Promo
+5188: weloveweather.tv Promo
+5189: weloveweather.tv Promo
+5190: weloveweather.tv Promo
+5191: weloveweather.tv Promo
+5193: Jen Carfagno TWC Fall
+5194: Jim Cantore TWC Winter
+5195: Escape The Election 2016
+5196: Escape The Election 2016
+5197: Escape The Election 2016
+5198: Escape The Election 2016
+5202: Escape The Election 2016
+5208: Thanksgivings Takeover
+5209: Thanksgivings Takeover
+5210: Thats Amazing Now Watching
+5211: weloveweather.tv Promo
+5212: weloveweather.tv Promo
+5213: weloveweather.tv Promo
+5214: AMHQ Now Watching Winter
+5215: AMHQ Up Next Winter
+5216: AMHQ Promo Winter
+5217: AMHQ Now Watching Winter
+5218: AMHQ Up Next Winter
+5219: Weather Underground Promo Winter
+5220: Weather Underground Now Watching Winter
+5221: Weather Underground Up Next Winter
+-- 6000s - These are generally Advertisements (so many medicinal ones too.)
+6001: US Army 2015
+6008: Universal Orlando 2016 (Day)
+6009: Disney 2015 (Day)
+6012: Lexus 2015 (Day)
+6014: TruGreen 2016 (Day)
+6015: Walmart 2015 (Day)
+6016: Lexus Desert 2015 (Day)
+6017: SeaDoo 2015 (Day)
+6018: Walmart 2015 (Day)
+6019: Excedrin 2015 (Day)
+6020: Lexus 2015 (Day)
+6022: Walmart Christmas 2015
+6023: Duracell 2015
+6024: Cintas 2016
+6025: Zzzquil 2016 (Day)
+6026: LLBean Winter 2016
+6027: Walmart 2016 (Day)
+6028: LLBean 2016 (Day)
+6029: Lexus 2016 (Day)
+6030: Lexus 2016 (Day)
+6031: Alzheimers 2016
+6032: Gorilla Glue 2016
+6033: Lexus 2016 (Day)
+6034: Walmart 2016
+6035: Purina 2016
+6036: Michelin 2017
+6037: US Army 2016
+6038: Amex 2016
+6039: Walmart 2016
+6040: Lexus Winter 2016

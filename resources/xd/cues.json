@@ -1,0 +1,41 @@
+{
+    "ldl": [
+        {"name":"Nemo","duration":27000,"preview":"#","product":"ldlE"},
+        {"name":"Nemo Storm","duration":27000,"preview":"#","product":"ldlF"},
+        {"name":"Enhanced","duration":27000,"preview":"#","product":"ldlC"},
+        {"name":"Enhanced Storm","duration":27000,"preview":"#","product":"ldlD"},
+        {"name":"Enhanced Catastrophic","duration":27000,"preview":"#","product":"ldlG"},
+        {"name":"Enhanced Longform","duration":27000,"preview":"#","product":"ldlI"},
+        {"name":"Enhanced LOT8s","duration":27000,"preview":"#","product":"Z"}
+    ],
+    "lf": [
+        {"name":"Nemo","duration":1950,"preview":"#","product":"V"},
+        {"name":"Nemo Storm","duration":1950,"preview":"#","product":"V1"},
+        {"name":"Nemo Storm 2","duration":1950,"preview":"#","product":"V2"},
+        {"name":"Azul Short","duration":1950,"preview":"#","product":"Azul"},
+        {"name":"Azul Long","duration":3600,"preview":"#","product":"Azul"}
+    ],
+    "misc": [
+        {"name":"Bulletin Crawl","duration":1800,"preview":"#","product":"BulletinCrawl"},
+        {"name":"Sidebar Enhanced","duration":1800,"preview":"#","product":"SidebarXC"},
+        {"name":"Sidebar Enhanced Storm","duration":1800,"preview":"#","product":"SidebarXD"},
+        {"name":"Azul BG","duration":1800,"preview":"#","product":"April 19 2013 test"},
+        {"name":"Squeezeback","duration":3600,"preview":"#","product":"Sqeezeback"}
+    ],
+    "hb": [
+        {"name":"Nemo","duration":1950,"preview":"#","product":"V"},
+        {"name":"Nemo Storm","duration":1950,"preview":"#","product":"V1"},
+        {"name":"Nemo Storm 2","duration":1950,"preview":"#","product":"V2"},
+        {"name":"Azul Short","duration":1950,"preview":"#","product":"Azul"},
+        {"name":"Azul Long","duration":3600,"preview":"#","product":"Azul"}
+    ],
+    "hb2": [
+        {"name":"Nemo","duration":27000,"preview":"#","product":"ldlE"},
+        {"name":"Nemo Storm","duration":27000,"preview":"#","product":"ldlF"},
+        {"name":"Enhanced","duration":27000,"preview":"#","product":"ldlC"},
+        {"name":"Enhanced Storm","duration":27000,"preview":"#","product":"ldlD"},
+        {"name":"Enhanced Catastrophic","duration":27000,"preview":"#","product":"ldlG"},
+        {"name":"Enhanced Longform","duration":27000,"preview":"#","product":"ldlI"},
+        {"name":"Enhanced LOT8s","duration":27000,"preview":"#","product":"Z"}
+    ]
+}

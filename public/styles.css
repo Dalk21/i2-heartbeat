@@ -1,0 +1,188 @@
+* {
+    font-family: 'Akko', sans-serif;
+}
+body {
+    background-color: black;
+    color: #ffffff;
+    font-family: 'Akko', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: 'Akko';
+    src: url("/assets/akko.ttf");
+}
+
+.container {
+    max-height: 95%;
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgba(20, 20, 20, 0.7);
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+}
+
+.conditions {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    right: 20px;
+}
+
+.conditions img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.page {
+    padding: 20px;
+    animation: fadeIn 0.5s;
+    display: none;
+}
+
+.page.active {
+    display: block;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #cccccc;
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="number"], select, input[type="color"] {
+    background-color: #303030;
+    color: #ffffff;
+    border: 1px solid #555555;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    width: calc(100% - 22px);
+    box-sizing: border-box;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-size: 16px;
+}
+
+input[type="color"] {
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.color-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #303030;
+    color: #ffffff;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+button:hover {
+    background-color: #666666;
+}
+
+.scene-toggle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.scene-toggle label {
+    flex-grow: 1;
+}
+
+.scene-toggle input[type="checkbox"] {
+    margin-left: 10px;
+}
+
+.popup {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #444444;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+.popup.show {
+    visibility: visible;
+    animation: fadeInOut 3s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+/* Particle background */
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    z-index: 0;
+}
+
+#azul {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+}

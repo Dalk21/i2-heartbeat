@@ -1,0 +1,36 @@
+{
+    "ldl": [
+        {"name":"Nemo (requires NemoSD)","duration":27000,"preview":"#","product":"ldlE"},
+        {"name":"Nemo Storm (requires NemoSD)","duration":27000,"preview":"#","product":"ldlF"},
+        {"name":"Enhanced","duration":27000,"preview":"#","product":"ldlC"},
+        {"name":"Enhanced Storm","duration":27000,"preview":"#","product":"ldlD"},
+        {"name":"Enhanced Catastrophic","duration":27000,"preview":"#","product":"ldlG"},
+        {"name":"Enhanced Longform","duration":27000,"preview":"#","product":"ldlI"}
+    ],
+    "lf": [
+        {"name":"Enhanced","duration":1950,"preview":"#","product":"V"},
+        {"name":"Enhanced Storm","duration":1950,"preview":"#","product":"V1"},
+        {"name":"Enhanced Storm 2","duration":1950,"preview":"#","product":"V2"},
+        {"name":"Azul Short","duration":1950,"preview":"#","product":"azul i2 jr"},
+        {"name":"Azul Long","duration":3600,"preview":"#","product":"azul i2 jr"}
+    ],
+    "misc": [
+        {"name":"Bulletin Crawl Enhanced","duration":1800,"preview":"#","product":"BulletinCrawl"},
+        {"name":"Squeezeback","duration":3600,"preview":"#","product":"Sqeezeback"}
+    ],
+    "hb": [
+        {"name":"Enhanced","duration":1950,"preview":"#","product":"V"},
+        {"name":"Enhanced Storm","duration":1950,"preview":"#","product":"V1"},
+        {"name":"Enhanced Storm 2","duration":1950,"preview":"#","product":"V2"},
+        {"name":"Azul Short","duration":1950,"preview":"#","product":"azul i2 jr"},
+        {"name":"Azul Long","duration":3600,"preview":"#","product":"azul i2 jr"}
+    ],
+    "hb2": [
+        {"name":"Nemo (requires NemoSD)","duration":27000,"preview":"#","product":"ldlE"},
+        {"name":"Nemo Storm (requires NemoSD)","duration":27000,"preview":"#","product":"ldlF"},
+        {"name":"Enhanced","duration":27000,"preview":"#","product":"ldlC"},
+        {"name":"Enhanced Storm","duration":27000,"preview":"#","product":"ldlD"},
+        {"name":"Enhanced Catastrophic","duration":27000,"preview":"#","product":"ldlG"},
+        {"name":"Enhanced Longform","duration":27000,"preview":"#","product":"ldlI"}
+    ]
+}

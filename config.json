@@ -1,0 +1,17 @@
+{
+  "i2Path": "C:/Program Files (x86)/TWC/i2",
+  "debugger": true,
+  "star": "xd",
+  "port": 9092,
+  "heartbeat": {
+    "flavor": "V",
+    "flavorLdl": "ldlE",
+    "flavorSidebar": "SidebarXC",
+    "sidebarEnabled": false,
+    "duration": 1950,
+    "heartbeatEnabled": true,
+    "heartbeatOn": 8,
+    "nextHeartbeatAuto": "3:08:00 AM",
+    "background": 0
+  }
+}

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STAR Heartbeat | 1.1.0</title>
+    <link rel="icon" type="image/x-icon" href="/assets/scuewer.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="popup" class="popup"></div>
+
+        <!-- Home Page -->
+        <div id="home" class="page active">
+            <h1>STAR Heartbeat</h1>
+            <p id="version-tag">Running version 1.1.0. Made by Dalk.</p>
+            <p id="star">Headend Info will go here</p>
+            <button onclick="navigateTo('cues')">Cue Menu</button>
+            <button onclick="navigateTo('heartbeat')">Heartbeat</button>
+            <button onclick="navigateTo('settings')">Settings</button>
+        </div>
+
+        <div id="cancel" class="page">
+            <h1>Cancel Presentation</h1>
+            <label for="pid">Presentation ID: <label>
+            <input type="text" id="pid">
+            <button onclick="stopPresentation(document.getElementById('pid').value)">Cancel</button>
+            <button onclick="navigateTo('home')">Home</button>
+        </div>
+
+        <!-- Cue Menu -->
+        <div id="cues" class="page">
+            <h1>Cue Menu</h1>
+            <button onclick="navigateTo('lf')">LF</button>
+            <button onclick="navigateTo('ldl')">LDL</button>
+            <button onclick="navigateTo('misc')">Misc</button>
+            <button onclick="navigateTo('custom')">Custom</button>
+            <button onclick="navigateTo('cancel')">Cancel Presentation</button>
+            <button onclick="navigateTo('home')">Home</button>
+        </div>
+
+        <div id="settings" class="page">
+            <h1>Settings</h1>
+            <button onclick="kill('viz')">Vizrt Die</button>
+            <button onclick="kill('I2jPipeline')">Pipeline Die</button>
+            <button onclick="kill('RenderController')">Render Controller Die</button>
+            <button id="toggleAzul">Toggle Background</button>
+            <button onclick="navigateTo('home')">Home</button>
+        </div>
+
+        <div id="heartbeat" class="page">
+            <h1>Heartbeat</h1>
+            <p>Configure automatic LF cueing.</p>
+            <p>Current Status:</p>
+            <p id="heartbeatStatus">Heartbeat is disabled.</p>
+            <p>
+                <label for="hbon" id="hb-detail">Heartbeat Cue Time (example; 8: Cues on xx:x8 every 10 minutes):</label>
+                <input id="heartbeat-on" type="text" placeholder="8" name="hbon">
+            </p>
+            <button onclick="navigateTo('hb')">Configure Flavor</button>
+            <button onclick="navigateTo('hb2')">Configure LDL</button>
+            <button onclick="updateHeartbeatInfo('heartbeatEnabled', !heartbeatEnabled)" id="heartbeat-toggle">Enable Heartbeat</button>
+            <button onclick="updateHeartbeatInfo('heartbeatOn', document.getElementById('heartbeat-on').value)">Set Heartbeat Cue Time</button>
+            <button onclick="forceHeartbeatCue()">Force Heartbeat</button>
+            <button onclick="navigateTo('home')">Home</button>
+        </div>
+
+         <div id="hb" class="page">
+            <h1>Configure Heartbeat</h1>
+            <form id="hb-form">
+                <label for="hb-select">Select Heartbeat LF:</label>
+                <select id="hb-select" name="hb"></select>
+                
+                <label for="hb-duration">Duration (seconds):</label>
+                <input type="number" id="hb-duration" name="duration" value="1800">
+                <label for="hb-bg">Select Background:</label>
+                <select id="hb-bg" name="bg"></select>
+
+                <button type="button" onclick="updateHeartbeatLF()">Submit</button>
+            </form>
+            <button onclick="navigateTo('heartbeat')">Back</button>
+        </div>
+
+        <div id="hb2" class="page">
+            <h1>Configure Heartbeat LDL</h1>
+            <form id="hb2-form">
+                <label for="hb2-select">Select Heartbeat LDL:</label>
+                <select id="hb2-select" name="hb2"></select>
+                <button type="button" onclick="updateHeartbeatLDL()">Submit</button>
+            </form>
+            <button onclick="navigateTo('heartbeat')">Back</button>
+        </div>
+
+        <!-- LF Page -->
+        <div id="lf" class="page">
+            <h1>Cue Local Forecast</h1>
+            <form id="lf-form">
+                <label for="lf-select">Select LF:</label>
+                <select id="lf-select" name="lf"></select>
+                
+                <label for="lf-duration">Duration (seconds):</label>
+                <input type="number" id="lf-duration" name="duration" value="1800">
+                <label for="lf-id">Presentation Layer/ID:</label>
+                <input type="text" id="lf-id" name="layer" value="4">
+                <label for="lf-bg">Select Background:</label>
+                <select id="lf-bg" name="bg"></select>
+
+                <button type="button" onclick="submitLF()">Submit</button>
+            </form>
+            <button onclick="navigateTo('cues')">Cue Menu</button>
+        </div>
+
+        <!-- LDL Page -->
+        <div id="ldl" class="page">
+            <h1>Cue LDL</h1>
+            <form id="ldl-form">
+                <label for="ldl-select">Select LDL:</label>
+                <select id="ldl-select" name="ldl"></select>
+                
+                <label for="ldl-duration">Duration (seconds):</label>
+                <input type="number" id="ldl-duration" name="duration" value="1800">
+                <label for="ldl-id">Presentation Layer/ID:</label>
+                <input type="text" id="ldl-id" name="layer" value="ldl1">
+
+                <button type="button" onclick="submitLDL()">Submit</button>
+            </form>
+            <button onclick="navigateTo('cues')">Cue Menu</button>
+        </div>
+
+        <!-- Misc Page -->
+        <div id="misc" class="page">
+            <h1>Cue Misc</h1>
+            <form id="misc-form">
+                <label for="misc-select">Select Misc:</label>
+                <select id="misc-select" name="misc"></select>
+                
+                <label for="misc-duration">Duration (seconds):</label>
+                <input type="number" id="misc-duration" name="duration" value="1800">
+                <label for="misc-id">Presentation Layer/ID:</label>
+                <input type="text" id="misc-id" name="layer" value="sidebar1">
+
+                <button type="button" onclick="submitMisc()">Submit</button>
+            </form>
+            <button onclick="navigateTo('cues')">Cue Menu</button>
+        </div>
+
+        <div id="custom" class="page">
+            <h1>Custom Cue</h1>
+            <form id="custom-form">
+                <label for="custom-select">Enter (domestic/):</label>
+                <input id="custom-select" name="custom" type="text"></select>
+                
+                <label for="custom-duration">Duration (frames):</label>
+                <input type="number" id="custom-duration" name="duration" value="1800">
+                <label for="custom-id">Presentation Layer/ID:</label>
+                <input type="number" id="custom-id" name="layer" value="4"><br>
+                <label for="custom-bg">Background (LF Only, default: None): <a href="/resources/codes.txt">Codes</a></label>
+                <input type="number" id="custom-bg" name="bg" value="0"><br>
+
+                <button type="button" onclick="submitCustom()">Submit</button>
+            </form>
+            <button onclick="navigateTo('cues')">Cue Menu</button>
+        </div>
+    </div>    
+    <script src="/script.js"></script>
+</body>
+</html>

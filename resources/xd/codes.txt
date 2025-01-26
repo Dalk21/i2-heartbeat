@@ -1,0 +1,390 @@
+LOT8s Background Codes by Dalk
+Few things to note:
+* You have to cue these under logo in Load Run Playlist (domesticAds/TAG<code>)
+* Some of these have MSO backgrounds. This means that for certain MSO codes, you will get backgrounds from a certain providor.
+* 3092 and Spectrum contains the Spectrum houses.
+* This took hours to compile. Do not share.
+* Made by the favorite minnesotan
+* MSO Codes are below:
+Spectrum Charter: 01148
+Xfinity Comcast: 01174
+Cox: 01179
+Verizon FiOs: 03467
+Optimum: 01181
+Suddenlink: 03363
+
+-- 3000s - These are mostly show promos, and most are after 2017
+3004: Cantore Forecasting Hope Charity Auction
+3006: LocalNow Promo
+3010: LocalNow Promo
+3011: AMHQ Promo (v1)
+3012: AMHQ will be right back (v1)
+3014: Weather Underground Promo (v1)
+3015: Weather Underground will be right back (v1)
+3017: Weekend Recharge will be right back
+3019: Weekend Recharge Promo
+3020: Highway Thru Hell Promo
+3021: Highway Thru Hell Promo
+3022: Mike Bettes TWC ESES
+3023: Chris Bruin TWC ESES
+3025: Heros and Survivors Premiere Promo
+3026: Heros and Survivors Premiere Promo
+3027: Heros and Survivors Promo
+3028: Heros and Survivors Promo
+3029: Mike Seidel TWC ESES
+3030: Fire Storm Premiere Promo
+3031: Fire Storm Premiere Promo
+3032: Fire Storm Promo
+3033: SOS: How To Survive Premiere Promo
+3034: SOS: How To Survive Premiere Promo
+3035: SOS: How To Survive Premiere Promo
+3036: SOS: How To Survive Premiere Promo
+3037: SOS: How To Survive Promo
+3038: SOS: How To Survive Promo
+3039: AMHQ Promo (v2)
+3040: AMHQ Promo (v2)
+3041: AMHQ will be right back (v2)
+3050: Reynolds Wolf TWC ESES
+3053: Storms of Suspicion Premiere Promo
+3054: Storms of Suspicion Premiere Promo
+3055: Storms of Suspicion Premiere Promo
+3056: Storms of Suspicion Premiere Promo
+3057: Storms of Suspicion Promo
+3058: Storms of Suspicion Promo
+3059: Jen Carfagno TWC ESES
+3061: Jen Carfagno TWC ESES (Dark)
+3063: Reynolds Wolf TWC ESES (Dupe)
+3064: Mike Bettes TWC ESES (Dupe)
+3066: Chris Bruin TWC ESES (Dupe)
+3069: Weather Underground Promo (v2)
+3070: Weather Underground will be right back (v2)
+3071: AMHQ Promo (v2)
+3072: AMHQ Weekend will be right back(v2)
+3073: Top 10 Promo
+3074: Top 10 Promo 
+3075: Chris Bruin TWC Winter
+3076: Mike Bettes TWC Winter
+3077: Jim Cantore TWC Winter
+3078: Alex Wilson TWC Winter
+3079: Reynolds Wolf TWC Winter
+3081: Highway Thru Hell Premiere Promo
+3083: Highway Thru Hell Premiere Promo 
+3084: Highway Thru Hell Premiere Promo 
+3085: Highway Thru Hell Promo 
+3086: Highway Thru Hell Promo 
+3087: Liana Brackett TWC Winter
+3088: LocalNow Promo 
+3089: Stephanie Abrams TWC Winter
+3090: Jen Carfagno TWC Spring (Dark) 
+3091: Jen Carfagno TWC Spring (Light)
+3092: Reynolds Wolf TWC Spring
+3093: Jen Carfagno TWC Spring Severe
+3094: Jen Carfagno TWC Spring Severe 
+3095: Reynolds Wolf TWC Spring Severe
+3098: Ice Pilots Premiere Promo
+3099: Ice Pilots Premiere Promo 
+3100: Ice Pilots Promo
+3101: Ice Pilots Promo 
+3102: Paul Goodloe TWC Spring
+3103: Paul Goodloe TWC Spring Severe
+3104: Storm Stories: The Next Chapter Premiere Promo
+3105: Storm Stories: The Next Chapter Premiere Promo 
+3106: Storm Stories: The Next Chapter Premiere Promo 
+3107: Storm Stories: The Next Chapter Promo
+3108: Storm Stories: The Next Chapter Promo 
+3114: Jim Cantore TWC Summer
+3115: Jim Cantore TWC Summer Severe
+3116: Race To Save The Planet Premiere Promo
+3117: Race To Save The Planet Premiere Promo
+3118: Race To Save The Planet Premiere Promo 
+3119: Race To Save The Planet Premiere Promo 
+3120: Veterans Day 2019
+3121: Jim Cantore TWC Winter Nemo
+3122: Stephanie Abrams TWC Winter Nemo
+3123: Mike Bettes TWC Winter Nemo
+3124: Liana Brackett TWC Winter Nemo
+3125: Alex Wilson TWC Winter Nemo
+3126: Reynolds Wolf TWC Winter Nemo
+3127: Thanksgivings 2019
+3128: Happy Holidays 2019
+3129: Highway Thru Hell Premiere Promo
+3130: Highway Thru Hell Premiere Promo
+3131: Highway Thru Hell Promo 
+3132: Highway Thru Hell Promo 
+3133: LocalNow Promo (Pre-Roku)
+3135: Race To Save The Planet Premiere Promo 
+3136: Race To Save The Planet Premiere Promo 
+3137: Race To Save The Planet Premiere Promo 
+3138: Race To Save The Planet Premiere Promo 
+3139: Race To Save The Planet Premiere Promo 
+3142: National Weatherperson's Day 2020
+3143: Valentines Day 2020
+3153: LocalNow Promo 
+3154: Deadline to Disaster Premiere Promo
+3155: Deadline to Disaster Premiere Promo 
+3156: Deadline to Disaster Premiere Promo 
+3157: Deadline to Disaster Promo
+3158: Deadline to Disaster Promo 
+3159: Feeding America Comedy Festival Promo
+3160: Feeding America Comedy Festival Promo 
+3161: Deadline to Disaster Promo 
+3162: Feeding America Comedy Festival Promo 
+3163: Feeding America Comedy Festival Promo 
+3164: Feeding America Comedy Festival Promo
+3165: Feeding America Comedy Festival Promo
+3166: Weird Earth Premiere Promo
+3167: Weird Earth Premiere Promo
+3168: Weird Earth Premiere Promo
+3169: Weird Earth Promo
+3170: Weird Earth Promo
+3171: Race To Save The Planet Premiere Promo 
+3172: Race To Save The Planet Premiere Promo 
+3173: Race To Save The Planet Premiere Promo 
+3174: Deadline to Disaster Promo
+3175: Deadline to Disaster Promo
+3176: Weather Gone Viral Premiere Promo
+3177: Weather Gone Viral Premiere Promo
+3178: Weather Gone Viral Premiere Promo
+3179: Weather Gone Viral Premiere Promo
+3180: Weather Gone Viral Promo
+3181: Weather Gone Viral Promo
+3182: Weather Gone Viral Promo
+3191: Chris Bruin TWC Summer
+3192: Chris Bruin TWC Summer Severe
+-- 5000s - These are generally older backgrounds (pre-2017/2018 or so)
+5009: AMHQ Promo
+5010: Brain Stormers Promo
+5033: Weather Underground Promo
+5034: Weather Underground Premiere Promo
+5035: Weather Underground Promo
+5037: 3 Scientists Promo
+5038: weather.com/tv Promo
+5039: Hurricane Joaquin
+5040: Severe Storm Central
+5041: AMHQ Promo
+5042: AMHQ Now Watching
+5043: Winter Storm Central
+5070: Weather Geeks Now Watching
+5071: Weather Geeks Coming Up
+5072: Weather Geeks Promo
+5073: Weather Underground Promo
+5074: Weather Underground Coming Up
+5075: Weather Underground Now Watching
+5076: Dead Of Winter Donner Party Now Watching
+5077: Dead Of Winter Donner Party Promo
+5078: Dead Of Winter Donner Party Promo
+5079: Prospectors Promo
+5081: Prospectors Now Watching
+5082: Weekend Recharge Now Watching
+5083: Weekend Recharge Coming Up
+5084: Weekend Recharge Promo
+5085: AMHQ Now Watching Winter
+5086: AMHQ Promo Winter
+5087: AMHQ Now Watching Spring
+5088: AMHQ Promo Spring
+5098: Severe Storm Central
+5106: Jim Cantore 30 Years
+5115: LocalNow Promo
+5134: Hurricane Central
+5135: weloveweather.tv Promo
+5136: weloveweather.tv Promo
+5137: weloveweather.tv Promo
+5138: Reynolds Wolf TWC
+5139: Mike Bettes TWC
+5145: Anaridis Rodriguez TWC
+5146: Jim Cantore TWC
+5156: Weather Gone Viral Promo
+5157: Weather Gone Viral Promo
+5158: Thats Amazing Premiere Promo
+5159: Thats Amazing Premiere Promo
+5186: Winter Storm Central
+5193: Jen Carfagno TWC Fall
+5194: Jim Cantore TWC Winter
+5210: Thats Amazing Now Watching
+5214: AMHQ Now Watching Winter
+5215: AMHQ Up Next Winter
+5216: AMHQ Promo Winter
+5217: AMHQ Now Watching Winter
+5218: AMHQ Up Next Winter
+5219: Weather Underground Promo Winter
+5220: Weather Underground Now Watching Winter
+5221: Weather Underground Up Next Winter
+5222: Happy Holidays Enhanced
+5229: Groundhogs Day Enhanced
+5231: weloveweather.tv Promo (Winter, Frozen Branches)
+5232: weloveweather.tv Promo (Winter, Snowy Mountains)
+5233: weloveweather.tv Promo (Winter, Frozen Lake)
+5234: weloveweather.tv Promo (Winter, Frozen Pier)
+5235: weloveweather.tv Promo (Winter, Ice Chips)
+5236: weloveweather.tv Promo (Winter, Icecicle)
+5237: weloveweather.tv Promo (Winter, River)
+5238: LocalNow Promo
+5244: AMHQ Promo Spring
+5245: AMHQ Now Watching Spring
+5246: AMHQ Up Next Spring
+5247: Weather Underground Promo Spring
+5248: Weather Underground Now Watching Spring
+5249: Weather Underground Up Next Spring
+5250: Weekend Recharge Now Watching Spring
+5251: Weekend Recharge Up Next Spring
+5252: Weekend Recharge Promo Spring
+5253: LocalNow Promo
+5257: LocalNow Promo
+5258: LocalNow Promo
+5259: Weezer Pool Feels Like Summer Promo
+5261: Weezer Pole Feels Like Summer Promo
+5296: SOS: How To Survive Promo
+5297: SOS: How To Survive Promo
+5298: SOS: How To Survive Now Watching
+5299: Weezer Pool Pacific Daydream Promo
+5300: Weezer Pole Pacific Daydream Promo
+5316: Jen Carfagno TWC ESES
+5317: Mike Bettes TWC ESES
+5318: Jen Carfagno TWC ESES Severe
+5319: Mike Bettes TWC ESES Severe
+5320: Jen Carfagno TWC ESES Severe 2 (Dupe)
+5321: Jim Cantore TWC ESES Severe
+5322: Weather Gone Viral Promo
+5323: Weather Gone Viral Promo
+5324: Weather Gone Viral Now Watching
+5325: AMHQ Promo Fall
+5326: AMHQ Be Back Fall
+5327: AMHQ Up Next Fall
+5328: AMHQ Promo Fall
+5329: Weather Underground Be Back Fall
+5330: Weather Underground Up Next Fall
+5331: Weekend Recharge Be Back Fall
+5332: Weekend Recharge Up Next Fall
+5333: Weekend Recharge Promo Fall
+5361: Winter Storm Central
+5362: Jim Cantore TWC Winter ESES
+5363: Paul Goodloe TWC Winter ESES
+5364: Jen Carfagno TWC Winter ESES
+5365: Halloween 2017
+5373: Mike Bettes Forecasting Hope Charity Auction
+5374: Jim Cantore Forecasting Hope Charity Auction
+5375: Forecasting Hope Charity Auction
+5376: AMHQ Promo Winter
+5377: AMHQ Be Back Winter
+5378: AMHQ Up Next Winter
+5379: Weather Underground Promo Winter
+5380: Weather Underground Be Back Winter
+5381: Weather Underground Up Next Winter
+5382: Weekend Recharge Be Back Winter
+5383: Weekend Recharge Up Next Winter
+5384: Weekend Recharge Promo Winter
+5385: Highway Thru Hell Promo
+5386: Highway Thru Hell Promo
+5388: Cruel & Unusual Hurricanes 2017 Promo
+5389: Cruel & Unusual Hurricanes 2017 Promo
+5391: Cruel & Unusual Hurricanes 2017 Up Next
+5392: Highway Thru Hell Up Next
+5395: LocalNow Promo
+5396: Chris Bruin TWC Winter ESES
+5401: Jim Cantore TWC Frozen America
+5402: Mike Bettes TWC Winter ESES
+5403: Alex Wilson TWC Winter ESES
+5404: Jim Cantore TWC Winter ESES
+5405: Reynolds Wolf TWC Winter ESES
+5406: Groundhogs Day 2018
+5407: AMHQ Groundhug Headquarters
+5408: Valentines Day 2018 weloveweather.tv
+5409: Mike Bettes TWC Spring ESES
+5411: The Night It Rained Boulders Premiere Promo
+5412: The Night It Rained Boulders Premiere Promo
+5413: The Night It Rained Boulders Premiere Promo
+5414: The Night It Rained Boulders Premiere Promo
+5415: AMHQ Promo Spring
+5416: AMHQ Be Back Spring
+5417: AMHQ Up Next Spring
+5418: Weather Underground Promo Spring
+5419: Weather Underground Be Back Spring
+5420: Weather Underground Up Next Spring
+5421: Weekend Recharge Be Back Spring
+5422: Weekend Recharge Up Next Spring
+5423: Weekend Recharge Promo Spring
+5424: Chris Bruin TWC Spring ESES
+5425: Mike Seidel TWC Spring ESES
+5426: Reynolds Wolf TWC Spring ESES
+5427: Jen Carfagno TWC Spring ESES (Light)
+5428: Jen Carfagno TWC Spring ESES (Dark)
+5429: Super Groundhog Sunday Promo
+5430: Super Groundhug Sunday Promo
+5431: Super Groundhog Sunday Winter
+5432: Super Groundhog Sunday Spring
+-- 6000s - These are generally Advertisements (so many medicinal ones too.)
+6001: US Army 2015
+6008: Universal Orlando 2016 (Day)
+6009: Disney 2015 (Day)
+6012: Lexus 2015 (Day)
+6014: TruGreen 2016 (Day)
+6015: Walmart 2015 (Day)
+6016: Lexus Desert 2015 (Day)
+6017: SeaDoo 2015 (Day)
+6018: Walmart 2015 (Day)
+6019: Excedrin 2015 (Day)
+6020: Lexus 2015 (Day)
+6022: Walmart Christmas 2015
+6023: Duracell 2015
+6024: Cintas 2016
+6025: Zzzquil 2016 (Day)
+6026: LLBean Winter 2016
+6027: Walmart 2016 (Day)
+6028: LLBean 2016 (Day)
+6029: Lexus 2016 (Day)
+6030: Lexus 2016 (Day)
+6031: Alzheimers 2016
+6032: Gorilla Glue 2016
+6033: Lexus 2016 (Day)
+6034: Walmart 2016
+6035: Purina 2016
+6036: Michelin 2017
+6037: US Army 2016
+6038: Amex 2016
+6039: Walmart 2016
+6040: Lexus Winter 2016
+6041: Walmart Winter 2017
+6042: Universal Orlando 2017 (Day)
+6043: CarFax 2017
+6044: Lexus 2017
+6045: TruGreen 2017 (Day)
+6046: Copperton 1 More Day until Summer
+6047: Copperton First Day of Summer
+6047: Coppertone
+6049: Chevy 2017
+6050: Michelin 2017
+6051: Walmart 2017
+6052: Lexus 2017
+6053: Mucinex 2017
+6054: Reeses Halloween 2017
+6055: Prevagen
+6056: Lands End 2017
+6057: Amex Thanksgivings 2017
+6058: Michelin
+6059: Theraflu 2017
+6060: Experian
+6061: Cologaurd (Day)
+6062: 3M
+6063: LocalNow Michelin 2018
+6064: Brighthouse
+6065: Corona Beer 2018
+6066: Michelob Beer 2018
+6067: Behr 2018
+6068: Michelin 2018
+6069: Reeses Halloween 2018
+6070: Amex Thanksgivings 2018
+6071: Right At Home 2018
+6072: NCL (Day)
+6073: Lexus 2019
+6074: TruGreen 2019
+6075: Travelocity 2019
+6076: Michelob Beer 2019
+6077: First Day Of Summer 2019
+6078: Behr 2019
+6079: Greenies 2019
+6080: Lands End Winter 2019
+6081: Lexus December to Remember 2019
+6082: West Virginia Tourism 2019
+6083: Lexus 2020
+6084: Mars Candy 2020
+6085: Lexus 2020

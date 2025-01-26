@@ -1,0 +1,1490 @@
+[
+    {
+      "ID": 3004,
+      "Description": "Cantore Forecasting Hope Charity Auction"
+    },
+    {
+      "ID": 3006,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 3010,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 3011,
+      "Description": "AMHQ Promo (v1)"
+    },
+    {
+      "ID": 3012,
+      "Description": "AMHQ will be right back (v1)"
+    },
+    {
+      "ID": 3014,
+      "Description": "Weather Underground Promo (v1)"
+    },
+    {
+      "ID": 3015,
+      "Description": "Weather Underground will be right back (v1)"
+    },
+    {
+      "ID": 3017,
+      "Description": "Weekend Recharge will be right back"
+    },
+    {
+      "ID": 3019,
+      "Description": "Weekend Recharge Promo"
+    },
+    {
+      "ID": 3020,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3021,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3022,
+      "Description": "Mike Bettes TWC ESES"
+    },
+    {
+      "ID": 3023,
+      "Description": "Chris Bruin TWC ESES"
+    },
+    {
+      "ID": 3025,
+      "Description": "Heros and Survivors Premiere Promo"
+    },
+    {
+      "ID": 3026,
+      "Description": "Heros and Survivors Premiere Promo"
+    },
+    {
+      "ID": 3027,
+      "Description": "Heros and Survivors Promo"
+    },
+    {
+      "ID": 3028,
+      "Description": "Heros and Survivors Promo"
+    },
+    {
+      "ID": 3029,
+      "Description": "Mike Seidel TWC ESES"
+    },
+    {
+      "ID": 3030,
+      "Description": "Fire Storm Premiere Promo"
+    },
+    {
+      "ID": 3031,
+      "Description": "Fire Storm Premiere Promo"
+    },
+    {
+      "ID": 3032,
+      "Description": "Fire Storm Promo"
+    },
+    {
+      "ID": 3033,
+      "Description": "SOS: How To Survive Premiere Promo"
+    },
+    {
+      "ID": 3034,
+      "Description": "SOS: How To Survive Premiere Promo"
+    },
+    {
+      "ID": 3035,
+      "Description": "SOS: How To Survive Premiere Promo"
+    },
+    {
+      "ID": 3036,
+      "Description": "SOS: How To Survive Premiere Promo"
+    },
+    {
+      "ID": 3037,
+      "Description": "SOS: How To Survive Promo"
+    },
+    {
+      "ID": 3038,
+      "Description": "SOS: How To Survive Promo"
+    },
+    {
+      "ID": 3039,
+      "Description": "AMHQ Promo (v2)"
+    },
+    {
+      "ID": 3040,
+      "Description": "AMHQ Promo (v2)"
+    },
+    {
+      "ID": 3041,
+      "Description": "AMHQ will be right back (v2)"
+    },
+    {
+      "ID": 3050,
+      "Description": "Reynolds Wolf TWC ESES"
+    },
+    {
+      "ID": 3053,
+      "Description": "Storms of Suspicion Premiere Promo"
+    },
+    {
+      "ID": 3054,
+      "Description": "Storms of Suspicion Premiere Promo"
+    },
+    {
+      "ID": 3055,
+      "Description": "Storms of Suspicion Premiere Promo"
+    },
+    {
+      "ID": 3056,
+      "Description": "Storms of Suspicion Premiere Promo"
+    },
+    {
+      "ID": 3057,
+      "Description": "Storms of Suspicion Promo"
+    },
+    {
+      "ID": 3058,
+      "Description": "Storms of Suspicion Promo"
+    },
+    {
+      "ID": 3059,
+      "Description": "Jen Carfagno TWC ESES"
+    },
+    {
+      "ID": 3061,
+      "Description": "Jen Carfagno TWC ESES (Dark)"
+    },
+    {
+      "ID": 3063,
+      "Description": "Reynolds Wolf TWC ESES (Dupe)"
+    },
+    {
+      "ID": 3064,
+      "Description": "Mike Bettes TWC ESES (Dupe)"
+    },
+    {
+      "ID": 3066,
+      "Description": "Chris Bruin TWC ESES (Dupe)"
+    },
+    {
+      "ID": 3069,
+      "Description": "Weather Underground Promo (v2)"
+    },
+    {
+      "ID": 3070,
+      "Description": "Weather Underground will be right back (v2)"
+    },
+    {
+      "ID": 3071,
+      "Description": "AMHQ Promo (v2)"
+    },
+    {
+      "ID": 3072,
+      "Description": "AMHQ Weekend will be right back(v2)"
+    },
+    {
+      "ID": 3073,
+      "Description": "Top 10 Promo"
+    },
+    {
+      "ID": 3074,
+      "Description": "Top 10 Promo"
+    },
+    {
+      "ID": 3075,
+      "Description": "Chris Bruin TWC Winter"
+    },
+    {
+      "ID": 3076,
+      "Description": "Mike Bettes TWC Winter"
+    },
+    {
+      "ID": 3077,
+      "Description": "Jim Cantore TWC Winter"
+    },
+    {
+      "ID": 3078,
+      "Description": "Alex Wilson TWC Winter"
+    },
+    {
+      "ID": 3079,
+      "Description": "Reynolds Wolf TWC Winter"
+    },
+    {
+      "ID": 3081,
+      "Description": "Highway Thru Hell Premiere Promo"
+    },
+    {
+      "ID": 3083,
+      "Description": "Highway Thru Hell Premiere Promo"
+    },
+    {
+      "ID": 3084,
+      "Description": "Highway Thru Hell Premiere Promo"
+    },
+    {
+      "ID": 3085,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3086,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3087,
+      "Description": "Liana Brackett TWC Winter"
+    },
+    {
+      "ID": 3088,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 3089,
+      "Description": "Stephanie Abrams TWC Winter"
+    },
+    {
+      "ID": 3090,
+      "Description": "Jen Carfagno TWC Spring (Dark)"
+    },
+    {
+      "ID": 3091,
+      "Description": "Jen Carfagno TWC Spring (Light)"
+    },
+    {
+      "ID": 3092,
+      "Description": "Reynolds Wolf TWC Spring"
+    },
+    {
+      "ID": 3093,
+      "Description": "Jen Carfagno TWC Spring Severe"
+    },
+    {
+      "ID": 3094,
+      "Description": "Jen Carfagno TWC Spring Severe"
+    },
+    {
+      "ID": 3095,
+      "Description": "Reynolds Wolf TWC Spring Severe"
+    },
+    {
+      "ID": 3098,
+      "Description": "Ice Pilots Premiere Promo"
+    },
+    {
+      "ID": 3099,
+      "Description": "Ice Pilots Premiere Promo"
+    },
+    {
+      "ID": 3100,
+      "Description": "Ice Pilots Promo"
+    },
+    {
+      "ID": 3101,
+      "Description": "Ice Pilots Promo"
+    },
+    {
+      "ID": 3102,
+      "Description": "Paul Goodloe TWC Spring"
+    },
+    {
+      "ID": 3103,
+      "Description": "Paul Goodloe TWC Spring Severe"
+    },
+    {
+      "ID": 3104,
+      "Description": "Storm Stories: The Next Chapter Premiere Promo"
+    },
+    {
+      "ID": 3105,
+      "Description": "Storm Stories: The Next Chapter Premiere Promo"
+    },
+    {
+      "ID": 3106,
+      "Description": "Storm Stories: The Next Chapter Premiere Promo"
+    },
+    {
+      "ID": 3107,
+      "Description": "Storm Stories: The Next Chapter Promo"
+    },
+    {
+      "ID": 3108,
+      "Description": "Storm Stories: The Next Chapter Promo"
+    },
+    {
+      "ID": 3114,
+      "Description": "Jim Cantore TWC Summer"
+    },
+    {
+      "ID": 3115,
+      "Description": "Jim Cantore TWC Summer Severe"
+    },
+    {
+      "ID": 3116,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3117,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3118,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3119,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3120,
+      "Description": "Veterans Day 2019"
+    },
+    {
+      "ID": 3121,
+      "Description": "Jim Cantore TWC Winter Nemo"
+    },
+    {
+      "ID": 3122,
+      "Description": "Stephanie Abrams TWC Winter Nemo"
+    },
+    {
+      "ID": 3123,
+      "Description": "Mike Bettes TWC Winter Nemo"
+    },
+    {
+      "ID": 3124,
+      "Description": "Liana Brackett TWC Winter Nemo"
+    },
+    {
+      "ID": 3125,
+      "Description": "Alex Wilson TWC Winter Nemo"
+    },
+    {
+      "ID": 3126,
+      "Description": "Reynolds Wolf TWC Winter Nemo"
+    },
+    {
+      "ID": 3127,
+      "Description": "Thanksgivings 2019"
+    },
+    {
+      "ID": 3128,
+      "Description": "Happy Holidays 2019"
+    },
+    {
+      "ID": 3129,
+      "Description": "Highway Thru Hell Premiere Promo"
+    },
+    {
+      "ID": 3130,
+      "Description": "Highway Thru Hell Premiere Promo"
+    },
+    {
+      "ID": 3131,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3132,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 3133,
+      "Description": "LocalNow Promo (Pre-Roku)"
+    },
+    {
+      "ID": 3135,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3136,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3137,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3138,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3139,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3142,
+      "Description": "National Weatherperson's Day 2020"
+    },
+    {
+      "ID": 3143,
+      "Description": "Valentines Day 2020"
+    },
+    {
+      "ID": 3153,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 3154,
+      "Description": "Deadline to Disaster Premiere Promo"
+    },
+    {
+      "ID": 3155,
+      "Description": "Deadline to Disaster Premiere Promo"
+    },
+    {
+      "ID": 3156,
+      "Description": "Deadline to Disaster Premiere Promo"
+    },
+    {
+      "ID": 3157,
+      "Description": "Deadline to Disaster Promo"
+    },
+    {
+      "ID": 3158,
+      "Description": "Deadline to Disaster Promo"
+    },
+    {
+      "ID": 3159,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3160,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3161,
+      "Description": "Deadline to Disaster Promo"
+    },
+    {
+      "ID": 3162,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3163,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3164,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3165,
+      "Description": "Feeding America Comedy Festival Promo"
+    },
+    {
+      "ID": 3166,
+      "Description": "Weird Earth Premiere Promo"
+    },
+    {
+      "ID": 3167,
+      "Description": "Weird Earth Premiere Promo"
+    },
+    {
+      "ID": 3168,
+      "Description": "Weird Earth Premiere Promo"
+    },
+    {
+      "ID": 3169,
+      "Description": "Weird Earth Promo"
+    },
+    {
+      "ID": 3170,
+      "Description": "Weird Earth Promo"
+    },
+    {
+      "ID": 3171,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3172,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3173,
+      "Description": "Race To Save The Planet Premiere Promo"
+    },
+    {
+      "ID": 3174,
+      "Description": "Deadline to Disaster Promo"
+    },
+    {
+      "ID": 3175,
+      "Description": "Deadline to Disaster Promo"
+    },
+    {
+      "ID": 3176,
+      "Description": "Weather Gone Viral Premiere Promo"
+    },
+    {
+      "ID": 3177,
+      "Description": "Weather Gone Viral Premiere Promo"
+    },
+    {
+      "ID": 3178,
+      "Description": "Weather Gone Viral Premiere Promo"
+    },
+    {
+      "ID": 3179,
+      "Description": "Weather Gone Viral Premiere Promo"
+    },
+    {
+      "ID": 3180,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 3181,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 3182,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 3191,
+      "Description": "Chris Bruin TWC Summer"
+    },
+    {
+      "ID": 3192,
+      "Description": "Chris Bruin TWC Summer Severe"
+    },
+    {
+      "ID": 5009,
+      "Description": "AMHQ Promo"
+    },
+    {
+      "ID": 5010,
+      "Description": "Brain Stormers Promo"
+    },
+    {
+      "ID": 5033,
+      "Description": "Weather Underground Promo"
+    },
+    {
+      "ID": 5034,
+      "Description": "Weather Underground Premiere Promo"
+    },
+    {
+      "ID": 5035,
+      "Description": "Weather Underground Promo"
+    },
+    {
+      "ID": 5037,
+      "Description": "3 Scientists Promo"
+    },
+    {
+      "ID": 5038,
+      "Description": "weather.com/tv Promo"
+    },
+    {
+      "ID": 5039,
+      "Description": "Hurricane Joaquin"
+    },
+    {
+      "ID": 5040,
+      "Description": "Severe Storm Central"
+    },
+    {
+      "ID": 5041,
+      "Description": "AMHQ Promo"
+    },
+    {
+      "ID": 5042,
+      "Description": "AMHQ Now Watching"
+    },
+    {
+      "ID": 5043,
+      "Description": "Winter Storm Central"
+    },
+    {
+      "ID": 5070,
+      "Description": "Weather Geeks Now Watching"
+    },
+    {
+      "ID": 5071,
+      "Description": "Weather Geeks Coming Up"
+    },
+    {
+      "ID": 5072,
+      "Description": "Weather Geeks Promo"
+    },
+    {
+      "ID": 5073,
+      "Description": "Weather Underground Promo"
+    },
+    {
+      "ID": 5074,
+      "Description": "Weather Underground Coming Up"
+    },
+    {
+      "ID": 5075,
+      "Description": "Weather Underground Now Watching"
+    },
+    {
+      "ID": 5076,
+      "Description": "Dead Of Winter Donner Party Now Watching"
+    },
+    {
+      "ID": 5077,
+      "Description": "Dead Of Winter Donner Party Promo"
+    },
+    {
+      "ID": 5078,
+      "Description": "Dead Of Winter Donner Party Promo"
+    },
+    {
+      "ID": 5079,
+      "Description": "Prospectors Promo"
+    },
+    {
+      "ID": 5081,
+      "Description": "Prospectors Now Watching"
+    },
+    {
+      "ID": 5082,
+      "Description": "Weekend Recharge Now Watching"
+    },
+    {
+      "ID": 5083,
+      "Description": "Weekend Recharge Coming Up"
+    },
+    {
+      "ID": 5084,
+      "Description": "Weekend Recharge Promo"
+    },
+    {
+      "ID": 5085,
+      "Description": "AMHQ Now Watching Winter"
+    },
+    {
+      "ID": 5086,
+      "Description": "AMHQ Promo Winter"
+    },
+    {
+      "ID": 5087,
+      "Description": "AMHQ Now Watching Spring"
+    },
+    {
+      "ID": 5088,
+      "Description": "AMHQ Promo Spring"
+    },
+    {
+      "ID": 5098,
+      "Description": "Severe Storm Central"
+    },
+    {
+      "ID": 5106,
+      "Description": "Jim Cantore 30 Years"
+    },
+    {
+      "ID": 5115,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5134,
+      "Description": "Hurricane Central"
+    },
+    {
+      "ID": 5135,
+      "Description": "weloveweather.tv Promo"
+    },
+    {
+      "ID": 5136,
+      "Description": "weloveweather.tv Promo"
+    },
+    {
+      "ID": 5137,
+      "Description": "weloveweather.tv Promo"
+    },
+    {
+      "ID": 5138,
+      "Description": "Reynolds Wolf TWC"
+    },
+    {
+      "ID": 5139,
+      "Description": "Mike Bettes TWC"
+    },
+    {
+      "ID": 5145,
+      "Description": "Anaridis Rodriguez TWC"
+    },
+    {
+      "ID": 5146,
+      "Description": "Jim Cantore TWC"
+    },
+    {
+      "ID": 5156,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 5157,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 5158,
+      "Description": "Thats Amazing Premiere Promo"
+    },
+    {
+      "ID": 5159,
+      "Description": "Thats Amazing Premiere Promo"
+    },
+    {
+      "ID": 5186,
+      "Description": "Winter Storm Central"
+    },
+    {
+      "ID": 5193,
+      "Description": "Jen Carfagno TWC Fall"
+    },
+    {
+      "ID": 5194,
+      "Description": "Jim Cantore TWC Winter"
+    },
+    {
+      "ID": 5210,
+      "Description": "Thats Amazing Now Watching"
+    },
+    {
+      "ID": 5214,
+      "Description": "AMHQ Now Watching Winter"
+    },
+    {
+      "ID": 5215,
+      "Description": "AMHQ Up Next Winter"
+    },
+    {
+      "ID": 5216,
+      "Description": "AMHQ Promo Winter"
+    },
+    {
+      "ID": 5217,
+      "Description": "AMHQ Now Watching Winter"
+    },
+    {
+      "ID": 5218,
+      "Description": "AMHQ Up Next Winter"
+    },
+    {
+      "ID": 5219,
+      "Description": "Weather Underground Promo Winter"
+    },
+    {
+      "ID": 5220,
+      "Description": "Weather Underground Now Watching Winter"
+    },
+    {
+      "ID": 5221,
+      "Description": "Weather Underground Up Next Winter"
+    },
+    {
+      "ID": 5222,
+      "Description": "Happy Holidays Enhanced"
+    },
+    {
+      "ID": 5229,
+      "Description": "Groundhogs Day Enhanced"
+    },
+    {
+      "ID": 5231,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5232,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5233,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5234,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5235,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5236,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5237,
+      "Description": "weloveweather.tv Promo (Winter"
+    },
+    {
+      "ID": 5238,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5244,
+      "Description": "AMHQ Promo Spring"
+    },
+    {
+      "ID": 5245,
+      "Description": "AMHQ Now Watching Spring"
+    },
+    {
+      "ID": 5246,
+      "Description": "AMHQ Up Next Spring"
+    },
+    {
+      "ID": 5247,
+      "Description": "Weather Underground Promo Spring"
+    },
+    {
+      "ID": 5248,
+      "Description": "Weather Underground Now Watching Spring"
+    },
+    {
+      "ID": 5249,
+      "Description": "Weather Underground Up Next Spring"
+    },
+    {
+      "ID": 5250,
+      "Description": "Weekend Recharge Now Watching Spring"
+    },
+    {
+      "ID": 5251,
+      "Description": "Weekend Recharge Up Next Spring"
+    },
+    {
+      "ID": 5252,
+      "Description": "Weekend Recharge Promo Spring"
+    },
+    {
+      "ID": 5253,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5257,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5258,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5259,
+      "Description": "Weezer Pool Feels Like Summer Promo"
+    },
+    {
+      "ID": 5261,
+      "Description": "Weezer Pole Feels Like Summer Promo"
+    },
+    {
+      "ID": 5296,
+      "Description": "SOS: How To Survive Promo"
+    },
+    {
+      "ID": 5297,
+      "Description": "SOS: How To Survive Promo"
+    },
+    {
+      "ID": 5298,
+      "Description": "SOS: How To Survive Now Watching"
+    },
+    {
+      "ID": 5299,
+      "Description": "Weezer Pool Pacific Daydream Promo"
+    },
+    {
+      "ID": 5300,
+      "Description": "Weezer Pole Pacific Daydream Promo"
+    },
+    {
+      "ID": 5316,
+      "Description": "Jen Carfagno TWC ESES"
+    },
+    {
+      "ID": 5317,
+      "Description": "Mike Bettes TWC ESES"
+    },
+    {
+      "ID": 5318,
+      "Description": "Jen Carfagno TWC ESES Severe"
+    },
+    {
+      "ID": 5319,
+      "Description": "Mike Bettes TWC ESES Severe"
+    },
+    {
+      "ID": 5320,
+      "Description": "Jen Carfagno TWC ESES Severe 2 (Dupe)"
+    },
+    {
+      "ID": 5321,
+      "Description": "Jim Cantore TWC ESES Severe"
+    },
+    {
+      "ID": 5322,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 5323,
+      "Description": "Weather Gone Viral Promo"
+    },
+    {
+      "ID": 5324,
+      "Description": "Weather Gone Viral Now Watching"
+    },
+    {
+      "ID": 5325,
+      "Description": "AMHQ Promo Fall"
+    },
+    {
+      "ID": 5326,
+      "Description": "AMHQ Be Back Fall"
+    },
+    {
+      "ID": 5327,
+      "Description": "AMHQ Up Next Fall"
+    },
+    {
+      "ID": 5328,
+      "Description": "AMHQ Promo Fall"
+    },
+    {
+      "ID": 5329,
+      "Description": "Weather Underground Be Back Fall"
+    },
+    {
+      "ID": 5330,
+      "Description": "Weather Underground Up Next Fall"
+    },
+    {
+      "ID": 5331,
+      "Description": "Weekend Recharge Be Back Fall"
+    },
+    {
+      "ID": 5332,
+      "Description": "Weekend Recharge Up Next Fall"
+    },
+    {
+      "ID": 5333,
+      "Description": "Weekend Recharge Promo Fall"
+    },
+    {
+      "ID": 5361,
+      "Description": "Winter Storm Central"
+    },
+    {
+      "ID": 5362,
+      "Description": "Jim Cantore TWC Winter ESES"
+    },
+    {
+      "ID": 5363,
+      "Description": "Paul Goodloe TWC Winter ESES"
+    },
+    {
+      "ID": 5364,
+      "Description": "Jen Carfagno TWC Winter ESES"
+    },
+    {
+      "ID": 5365,
+      "Description": "Halloween 2017"
+    },
+    {
+      "ID": 5373,
+      "Description": "Mike Bettes Forecasting Hope Charity Auction"
+    },
+    {
+      "ID": 5374,
+      "Description": "Jim Cantore Forecasting Hope Charity Auction"
+    },
+    {
+      "ID": 5375,
+      "Description": "Forecasting Hope Charity Auction"
+    },
+    {
+      "ID": 5376,
+      "Description": "AMHQ Promo Winter"
+    },
+    {
+      "ID": 5377,
+      "Description": "AMHQ Be Back Winter"
+    },
+    {
+      "ID": 5378,
+      "Description": "AMHQ Up Next Winter"
+    },
+    {
+      "ID": 5379,
+      "Description": "Weather Underground Promo Winter"
+    },
+    {
+      "ID": 5380,
+      "Description": "Weather Underground Be Back Winter"
+    },
+    {
+      "ID": 5381,
+      "Description": "Weather Underground Up Next Winter"
+    },
+    {
+      "ID": 5382,
+      "Description": "Weekend Recharge Be Back Winter"
+    },
+    {
+      "ID": 5383,
+      "Description": "Weekend Recharge Up Next Winter"
+    },
+    {
+      "ID": 5384,
+      "Description": "Weekend Recharge Promo Winter"
+    },
+    {
+      "ID": 5385,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 5386,
+      "Description": "Highway Thru Hell Promo"
+    },
+    {
+      "ID": 5388,
+      "Description": "Cruel & Unusual Hurricanes 2017 Promo"
+    },
+    {
+      "ID": 5389,
+      "Description": "Cruel & Unusual Hurricanes 2017 Promo"
+    },
+    {
+      "ID": 5391,
+      "Description": "Cruel & Unusual Hurricanes 2017 Up Next"
+    },
+    {
+      "ID": 5392,
+      "Description": "Highway Thru Hell Up Next"
+    },
+    {
+      "ID": 5395,
+      "Description": "LocalNow Promo"
+    },
+    {
+      "ID": 5396,
+      "Description": "Chris Bruin TWC Winter ESES"
+    },
+    {
+      "ID": 5401,
+      "Description": "Jim Cantore TWC Frozen America"
+    },
+    {
+      "ID": 5402,
+      "Description": "Mike Bettes TWC Winter ESES"
+    },
+    {
+      "ID": 5403,
+      "Description": "Alex Wilson TWC Winter ESES"
+    },
+    {
+      "ID": 5404,
+      "Description": "Jim Cantore TWC Winter ESES"
+    },
+    {
+      "ID": 5405,
+      "Description": "Reynolds Wolf TWC Winter ESES"
+    },
+    {
+      "ID": 5406,
+      "Description": "Groundhogs Day 2018"
+    },
+    {
+      "ID": 5407,
+      "Description": "AMHQ Groundhug Headquarters"
+    },
+    {
+      "ID": 5408,
+      "Description": "Valentines Day 2018 weloveweather.tv"
+    },
+    {
+      "ID": 5409,
+      "Description": "Mike Bettes TWC Spring ESES"
+    },
+    {
+      "ID": 5411,
+      "Description": "The Night It Rained Boulders Premiere Promo"
+    },
+    {
+      "ID": 5412,
+      "Description": "The Night It Rained Boulders Premiere Promo"
+    },
+    {
+      "ID": 5413,
+      "Description": "The Night It Rained Boulders Premiere Promo"
+    },
+    {
+      "ID": 5414,
+      "Description": "The Night It Rained Boulders Premiere Promo"
+    },
+    {
+      "ID": 5415,
+      "Description": "AMHQ Promo Spring"
+    },
+    {
+      "ID": 5416,
+      "Description": "AMHQ Be Back Spring"
+    },
+    {
+      "ID": 5417,
+      "Description": "AMHQ Up Next Spring"
+    },
+    {
+      "ID": 5418,
+      "Description": "Weather Underground Promo Spring"
+    },
+    {
+      "ID": 5419,
+      "Description": "Weather Underground Be Back Spring"
+    },
+    {
+      "ID": 5420,
+      "Description": "Weather Underground Up Next Spring"
+    },
+    {
+      "ID": 5421,
+      "Description": "Weekend Recharge Be Back Spring"
+    },
+    {
+      "ID": 5422,
+      "Description": "Weekend Recharge Up Next Spring"
+    },
+    {
+      "ID": 5423,
+      "Description": "Weekend Recharge Promo Spring"
+    },
+    {
+      "ID": 5424,
+      "Description": "Chris Bruin TWC Spring ESES"
+    },
+    {
+      "ID": 5425,
+      "Description": "Mike Seidel TWC Spring ESES"
+    },
+    {
+      "ID": 5426,
+      "Description": "Reynolds Wolf TWC Spring ESES"
+    },
+    {
+      "ID": 5427,
+      "Description": "Jen Carfagno TWC Spring ESES (Light)"
+    },
+    {
+      "ID": 5428,
+      "Description": "Jen Carfagno TWC Spring ESES (Dark)"
+    },
+    {
+      "ID": 5429,
+      "Description": "Super Groundhog Sunday Promo"
+    },
+    {
+      "ID": 5430,
+      "Description": "Super Groundhug Sunday Promo"
+    },
+    {
+      "ID": 5431,
+      "Description": "Super Groundhog Sunday Winter"
+    },
+    {
+      "ID": 5432,
+      "Description": "Super Groundhog Sunday Spring"
+    },
+    {
+      "ID": 6001,
+      "Description": "US Army 2015"
+    },
+    {
+      "ID": 6008,
+      "Description": "Universal Orlando 2016 (Day)"
+    },
+    {
+      "ID": 6009,
+      "Description": "Disney 2015 (Day)"
+    },
+    {
+      "ID": 6012,
+      "Description": "Lexus 2015 (Day)"
+    },
+    {
+      "ID": 6014,
+      "Description": "TruGreen 2016 (Day)"
+    },
+    {
+      "ID": 6015,
+      "Description": "Walmart 2015 (Day)"
+    },
+    {
+      "ID": 6016,
+      "Description": "Lexus Desert 2015 (Day)"
+    },
+    {
+      "ID": 6017,
+      "Description": "SeaDoo 2015 (Day)"
+    },
+    {
+      "ID": 6018,
+      "Description": "Walmart 2015 (Day)"
+    },
+    {
+      "ID": 6019,
+      "Description": "Excedrin 2015 (Day)"
+    },
+    {
+      "ID": 6020,
+      "Description": "Lexus 2015 (Day)"
+    },
+    {
+      "ID": 6022,
+      "Description": "Walmart Christmas 2015"
+    },
+    {
+      "ID": 6023,
+      "Description": "Duracell 2015"
+    },
+    {
+      "ID": 6024,
+      "Description": "Cintas 2016"
+    },
+    {
+      "ID": 6025,
+      "Description": "Zzzquil 2016 (Day)"
+    },
+    {
+      "ID": 6026,
+      "Description": "LLBean Winter 2016"
+    },
+    {
+      "ID": 6027,
+      "Description": "Walmart 2016 (Day)"
+    },
+    {
+      "ID": 6028,
+      "Description": "LLBean 2016 (Day)"
+    },
+    {
+      "ID": 6029,
+      "Description": "Lexus 2016 (Day)"
+    },
+    {
+      "ID": 6030,
+      "Description": "Lexus 2016 (Day)"
+    },
+    {
+      "ID": 6031,
+      "Description": "Alzheimers 2016"
+    },
+    {
+      "ID": 6032,
+      "Description": "Gorilla Glue 2016"
+    },
+    {
+      "ID": 6033,
+      "Description": "Lexus 2016 (Day)"
+    },
+    {
+      "ID": 6034,
+      "Description": "Walmart 2016"
+    },
+    {
+      "ID": 6035,
+      "Description": "Purina 2016"
+    },
+    {
+      "ID": 6036,
+      "Description": "Michelin 2017"
+    },
+    {
+      "ID": 6037,
+      "Description": "US Army 2016"
+    },
+    {
+      "ID": 6038,
+      "Description": "Amex 2016"
+    },
+    {
+      "ID": 6039,
+      "Description": "Walmart 2016"
+    },
+    {
+      "ID": 6040,
+      "Description": "Lexus Winter 2016"
+    },
+    {
+      "ID": 6041,
+      "Description": "Walmart Winter 2017"
+    },
+    {
+      "ID": 6042,
+      "Description": "Universal Orlando 2017 (Day)"
+    },
+    {
+      "ID": 6043,
+      "Description": "CarFax 2017"
+    },
+    {
+      "ID": 6044,
+      "Description": "Lexus 2017"
+    },
+    {
+      "ID": 6045,
+      "Description": "TruGreen 2017 (Day)"
+    },
+    {
+      "ID": 6046,
+      "Description": "Copperton 1 More Day until Summer"
+    },
+    {
+      "ID": 6047,
+      "Description": "Copperton First Day of Summer"
+    },
+    {
+      "ID": 6047,
+      "Description": "Coppertone"
+    },
+    {
+      "ID": 6049,
+      "Description": "Chevy 2017"
+    },
+    {
+      "ID": 6050,
+      "Description": "Michelin 2017"
+    },
+    {
+      "ID": 6051,
+      "Description": "Walmart 2017"
+    },
+    {
+      "ID": 6052,
+      "Description": "Lexus 2017"
+    },
+    {
+      "ID": 6053,
+      "Description": "Mucinex 2017"
+    },
+    {
+      "ID": 6054,
+      "Description": "Reeses Halloween 2017"
+    },
+    {
+      "ID": 6055,
+      "Description": "Prevagen"
+    },
+    {
+      "ID": 6056,
+      "Description": "Lands End 2017"
+    },
+    {
+      "ID": 6057,
+      "Description": "Amex Thanksgivings 2017"
+    },
+    {
+      "ID": 6058,
+      "Description": "Michelin"
+    },
+    {
+      "ID": 6059,
+      "Description": "Theraflu 2017"
+    },
+    {
+      "ID": 6060,
+      "Description": "Experian"
+    },
+    {
+      "ID": 6061,
+      "Description": "Cologaurd (Day)"
+    },
+    {
+      "ID": 6062,
+      "Description": "3M"
+    },
+    {
+      "ID": 6063,
+      "Description": "LocalNow Michelin 2018"
+    },
+    {
+      "ID": 6064,
+      "Description": "Brighthouse"
+    },
+    {
+      "ID": 6065,
+      "Description": "Corona Beer 2018"
+    },
+    {
+      "ID": 6066,
+      "Description": "Michelob Beer 2018"
+    },
+    {
+      "ID": 6067,
+      "Description": "Behr 2018"
+    },
+    {
+      "ID": 6068,
+      "Description": "Michelin 2018"
+    },
+    {
+      "ID": 6069,
+      "Description": "Reeses Halloween 2018"
+    },
+    {
+      "ID": 6070,
+      "Description": "Amex Thanksgivings 2018"
+    },
+    {
+      "ID": 6071,
+      "Description": "Right At Home 2018"
+    },
+    {
+      "ID": 6072,
+      "Description": "NCL (Day)"
+    },
+    {
+      "ID": 6073,
+      "Description": "Lexus 2019"
+    },
+    {
+      "ID": 6074,
+      "Description": "TruGreen 2019"
+    },
+    {
+      "ID": 6075,
+      "Description": "Travelocity 2019"
+    },
+    {
+      "ID": 6076,
+      "Description": "Michelob Beer 2019"
+    },
+    {
+      "ID": 6077,
+      "Description": "First Day Of Summer 2019"
+    },
+    {
+      "ID": 6078,
+      "Description": "Behr 2019"
+    },
+    {
+      "ID": 6079,
+      "Description": "Greenies 2019"
+    },
+    {
+      "ID": 6080,
+      "Description": "Lands End Winter 2019"
+    },
+    {
+      "ID": 6081,
+      "Description": "Lexus December to Remember 2019"
+    },
+    {
+      "ID": 6082,
+      "Description": "West Virginia Tourism 2019"
+    },
+    {
+      "ID": 6083,
+      "Description": "Lexus 2020"
+    },
+    {
+      "ID": 6084,
+      "Description": "Mars Candy 2020"
+    },
+    {
+      "ID": 6085,
+      "Description": "Lexus 2020"
+    }
+  ]

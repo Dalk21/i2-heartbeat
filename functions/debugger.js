@@ -44,7 +44,7 @@ function log(message, forceDebugEnable, onBoot) {
         }
     }
     if(configuration.debugger || forceDebug) {
-        console.log(`Mist Heartbeat (v${package.version}) Debugger | ${new Date().toLocaleString()} | ${message}`)
+        console.log(`STAR Heartbeat (v${package.version}) Debugger | ${new Date().toLocaleString()} | ${message}`)
 
         const debugtxt = path.join(__dirname, "..", "debug.txt")
         if(!fs.existsSync(debugtxt)) {
